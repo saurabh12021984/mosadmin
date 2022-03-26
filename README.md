@@ -1,0 +1,2 @@
+# mosadmin
+application
